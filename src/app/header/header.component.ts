@@ -23,6 +23,9 @@ font-weight: 300;
 font-size: 20px;
 line-height: 148.5%;
 color: #252525;
+background-color: rgba(255,255,255,0.5);
+padding: 0;
+margin: 0;
 
 }
 
@@ -31,7 +34,11 @@ ul {
 }
 li {
   display: inline-block;
-  padding: 2em;
+  padding-top: 2em;
+  padding-bottom: 0em;
+  padding-right: 2em;
+  padding-left: 2em;
+  margin-bottom: 0em;
 }
 
   `]
